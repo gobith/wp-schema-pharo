@@ -1,0 +1,1 @@
+# wp-schema-pharo
